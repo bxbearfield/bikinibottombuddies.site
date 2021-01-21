@@ -10,7 +10,7 @@
     "express-handlebars": "^3.0.0",
     "jade": "^1.11.0",
     "mongodb": "^2.1.18",
-    "socket.io": "^1.7.4",
+    "socket.io": "^2.4.0",
     "socket.io-adapter": "^0.4.0",
     "socket.io-client": "^1.4.8"
   },
