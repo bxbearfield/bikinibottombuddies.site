@@ -5,7 +5,7 @@
   "description": "BBB",
   "main": "js/chat/server.js",
   "dependencies": {
-    "engine.io": "^1.6.11",
+    "engine.io": "^4.1.2",
     "express": "^4.17.1",
     "express-handlebars": "^3.0.0",
     "jade": "^1.11.0",
