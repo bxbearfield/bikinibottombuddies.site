@@ -6,7 +6,7 @@
   "main": "js/chat/server.js",
   "dependencies": {
     "engine.io": "^1.6.11",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-handlebars": "^3.0.0",
     "jade": "^1.11.0",
     "mongodb": "^2.1.18",
