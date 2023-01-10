@@ -5,14 +5,14 @@
   "description": "BBB",
   "main": "js/chat/server.js",
   "dependencies": {
-    "engine.io": "^1.6.11",
+    "engine.io": "^6.3.0",
     "express": "^4.17.1",
     "express-handlebars": "^3.0.0",
     "jade": "^1.11.0",
     "mongodb": "^2.1.18",
-    "socket.io": "^1.7.4",
-    "socket.io-adapter": "^0.4.0",
-    "socket.io-client": "^1.4.8"
+    "socket.io": "^4.5.4",
+    "socket.io-adapter": "^2.5.1",
+    "socket.io-client": "^4.5.4"
   },
   "devDependencies": {},
   "engines": {
